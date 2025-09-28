@@ -1,0 +1,64 @@
+{
+  "zombiekit:zombie_kit": {
+    "criteria": {
+      "zombie_kit": "2025-09-28 02:42:29 +0000"
+    },
+    "done": true
+  },
+  "butcher:firstjoinadvancement": {
+    "criteria": {
+      "firstjoinadvancement_0": "2025-09-28 02:42:29 +0000"
+    },
+    "done": true
+  },
+  "bunker_down:first_joined_world": {
+    "criteria": {
+      "first_joined_world": "2025-09-28 02:42:29 +0000"
+    },
+    "done": true
+  },
+  "butcher:firstjoinmessage": {
+    "criteria": {
+      "firstjoinmessage_0": "2025-09-28 02:42:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2025-09-28 02:42:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-09-28 02:46:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_by_something": "2025-09-28 02:46:07 +0000"
+    },
+    "done": true
+  },
+  "lootr:root": {
+    "criteria": {
+      "always_true": "2025-09-28 02:42:29 +0000"
+    },
+    "done": true
+  },
+  "zombiekit:grant_book_on_first_join": {
+    "criteria": {
+      "tick": "2025-09-28 02:42:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:windswept_savanna": "2025-09-28 02:44:31 +0000",
+      "minecraft:old_growth_birch_forest": "2025-09-28 02:43:26 +0000"
+    },
+    "done": false
+  },
+  "DataVersion": 3465
+}

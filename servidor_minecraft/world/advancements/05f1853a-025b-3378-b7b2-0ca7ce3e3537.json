@@ -728,10 +728,14 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:taiga": "2025-09-26 14:05:00 +0000",
+      "minecraft:beach": "2025-09-27 04:17:42 +0000",
       "minecraft:river": "2025-09-26 13:47:50 +0000",
       "minecraft:swamp": "2025-09-27 00:14:42 +0000",
       "minecraft:forest": "2025-09-27 00:15:04 +0000",
-      "minecraft:lush_caves": "2025-09-26 14:07:25 +0000"
+      "minecraft:lush_caves": "2025-09-26 14:07:25 +0000",
+      "minecraft:ocean": "2025-09-27 04:17:45 +0000",
+      "minecraft:windswept_savanna": "2025-09-28 01:47:01 +0000",
+      "minecraft:old_growth_birch_forest": "2025-09-27 04:20:14 +0000"
     },
     "done": false
   },
@@ -1207,6 +1211,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-09-26 23:48:11 +0000",
+      "minecraft:spider": "2025-09-27 03:46:58 +0000",
       "minecraft:creeper": "2025-09-26 13:50:42 +0000",
       "minecraft:zombie": "2025-09-27 00:11:31 +0000"
     },
@@ -3872,6 +3877,12 @@
     },
     "done": true
   },
+  "lootr:25loot": {
+    "criteria": {
+      "loot_stat": "2025-09-27 00:57:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/redstone_torch": {
     "criteria": {
       "has_redstone": "2025-09-27 00:58:26 +0000"
@@ -3911,12 +3922,6 @@
   "securitycraft:recipes/redstone/portable_radar": {
     "criteria": {
       "has_redstone": "2025-09-27 00:58:26 +0000"
-    },
-    "done": true
-  },
-  "lootr:25loot": {
-    "criteria": {
-      "loot_stat": "2025-09-27 00:57:01 +0000"
     },
     "done": true
   },
@@ -4055,6 +4060,324 @@
   "minecraft:recipes/redstone/piston": {
     "criteria": {
       "has_redstone": "2025-09-27 00:58:26 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2025-09-27 03:48:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2025-09-27 03:48:19 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/light_gray_dye_from_azure_bluet": {
+    "criteria": {
+      "has_azure_bluet": "2025-09-27 03:48:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
+    "criteria": {
+      "has_azure_bluet": "2025-09-27 03:48:22 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/magenta_dye_from_allium": {
+    "criteria": {
+      "has_allium": "2025-09-27 03:48:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_allium": {
+    "criteria": {
+      "has_allium": "2025-09-27 03:48:28 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/steak_and_potatoes": {
+    "criteria": {
+      "has_baked_potato": "2025-09-27 03:59:12 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/baking/baked_potato": {
+    "criteria": {
+      "has_result": "2025-09-27 03:59:12 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/heating/baked_potato": {
+    "criteria": {
+      "has_result": "2025-09-27 03:59:12 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/stuffed_potato": {
+    "criteria": {
+      "has_baked_potato": "2025-09-27 03:59:12 +0000"
+    },
+    "done": true
+  },
+  "lootr:50loot": {
+    "criteria": {
+      "loot_stat": "2025-09-27 04:01:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_smoking": {
+    "criteria": {
+      "has_beef": "2025-09-27 04:15:42 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/pasta_with_meatballs": {
+    "criteria": {
+      "has_any_ingredient": "2025-09-27 04:15:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef": {
+    "criteria": {
+      "has_beef": "2025-09-27 04:15:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
+    "criteria": {
+      "has_beef": "2025-09-27 04:15:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blast_furnace": {
+    "criteria": {
+      "has_smooth_stone": "2025-09-27 04:16:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-09-27 04:16:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_wall": {
+    "criteria": {
+      "has_stone_bricks": "2025-09-27 04:16:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_stone_bricks": {
+    "criteria": {
+      "has_stone_bricks": "2025-09-27 04:16:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-09-27 04:16:02 +0000"
+    },
+    "done": true
+  },
+  "immersive_weathering:recipes/stone_bricks": {
+    "criteria": {
+      "has_copper_block": "2025-09-27 04:16:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone_slab": {
+    "criteria": {
+      "has_smooth_stone": "2025-09-27 04:16:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
+    "criteria": {
+      "has_smooth_stone": "2025-09-27 04:16:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-09-27 04:16:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-09-27 04:16:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2025-09-27 04:17:51 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/iron_hull": {
+    "criteria": {
+      "has_item": "2025-09-27 04:17:51 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/iron_hull_from_stonecutting": {
+    "criteria": {
+      "has_item": "2025-09-27 04:17:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2025-09-27 04:17:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_magenta_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-09-28 01:54:24 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/magenta_sofa_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-09-28 01:54:24 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/magenta_grill_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-09-28 01:54:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/magenta_candle": {
+    "criteria": {
+      "has_magenta_dye": "2025-09-28 01:54:24 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/magenta_toilet": {
+    "criteria": {
+      "has_magenta_dye": "2025-09-28 01:54:24 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/magenta_kitchen_cabinetry": {
+    "criteria": {
+      "has_magenta_dye": "2025-09-28 01:54:24 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/magenta_kitchen_drawer": {
+    "criteria": {
+      "has_magenta_dye": "2025-09-28 01:54:24 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/magenta_lamp_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-09-28 01:54:24 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/magenta_cooler_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-09-28 01:54:24 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/magenta_toilet": {
+    "criteria": {
+      "has_dye": "2025-09-28 01:54:24 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/magenta_placard_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-09-28 01:54:24 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/magenta_kitchen_sink": {
+    "criteria": {
+      "has_magenta_dye": "2025-09-28 01:54:24 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/magenta_bath": {
+    "criteria": {
+      "has_magenta_dye": "2025-09-28 01:54:24 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/magenta_stool_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-09-28 01:54:24 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/magenta_kitchen_storage_cabinet": {
+    "criteria": {
+      "has_magenta_dye": "2025-09-28 01:54:24 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/magenta_kitchen_storage_cabinet_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-09-28 01:54:24 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/magenta_trampoline_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-09-28 01:54:24 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/magenta_kitchen_cabinetry_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-09-28 01:54:24 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/magenta_basin": {
+    "criteria": {
+      "has_magenta_dye": "2025-09-28 01:54:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_magenta_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-09-28 01:54:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_magenta_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-09-28 01:54:24 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/magenta_kitchen_drawer_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-09-28 01:54:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/magenta_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_magenta_dye": "2025-09-28 01:54:24 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/magenta_kitchen_sink_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-09-28 01:54:24 +0000"
     },
     "done": true
   },
