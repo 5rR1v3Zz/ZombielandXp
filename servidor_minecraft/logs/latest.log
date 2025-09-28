@@ -701,3 +701,38 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [28Sep2025 15:15:56.863] [spark-worker-pool-1-thread-2/INFO] [net.minecraft.server.MinecraftServer/]: [⚡] Tick #1180 included GC lasting 49 ms. (type = Young Gen)
 [28Sep2025 15:16:45.125] [spark-worker-pool-1-thread-4/INFO] [net.minecraft.server.MinecraftServer/]: [⚡] Tick #2137 lasted 489.18 ms. (878.35% increase from avg)
 [28Sep2025 15:16:51.241] [spark-worker-pool-1-thread-3/INFO] [net.minecraft.server.MinecraftServer/]: [⚡] Tick #2267 included GC lasting 50 ms. (type = Young Gen)
+[28Sep2025 15:17:14.855] [spark-worker-pool-1-thread-1/INFO] [net.minecraft.server.MinecraftServer/]: [⚡] Tick #2737 lasted 221.18 ms. (342.36% increase from avg)
+[28Sep2025 15:17:44.841] [spark-worker-pool-1-thread-2/INFO] [net.minecraft.server.MinecraftServer/]: [⚡] Tick #3337 lasted 207.35 ms. (314.71% increase from avg)
+[28Sep2025 15:17:47.449] [spark-worker-pool-1-thread-4/INFO] [net.minecraft.server.MinecraftServer/]: [⚡] Tick #3392 included GC lasting 52 ms. (type = Young Gen)
+[28Sep2025 15:18:14.841] [spark-worker-pool-1-thread-3/INFO] [net.minecraft.server.MinecraftServer/]: [⚡] Tick #3937 lasted 206.87 ms. (313.74% increase from avg)
+[28Sep2025 15:18:22.348] [spark-worker-pool-1-thread-1/INFO] [net.minecraft.server.MinecraftServer/]: [⚡] Tick #4088 lasted 163.61 ms. (227.21% increase from avg)
+[28Sep2025 15:18:48.043] [spark-worker-pool-1-thread-2/INFO] [net.minecraft.server.MinecraftServer/]: [⚡] Tick #4603 included GC lasting 51 ms. (type = Young Gen)
+[28Sep2025 15:19:15.363] [spark-worker-pool-1-thread-4/INFO] [net.minecraft.server.MinecraftServer/]: [⚡] Tick #5148 lasted 115.1 ms. (130.19% increase from avg)
+[28Sep2025 15:19:17.088] [spark-worker-pool-1-thread-3/INFO] [net.minecraft.server.MinecraftServer/]: [⚡] Tick #5182 lasted 203.44 ms. (306.89% increase from avg)
+[28Sep2025 15:19:25.161] [spark-worker-pool-1-thread-1/INFO] [net.minecraft.server.MinecraftServer/]: [⚡] Tick #5345 included GC lasting 67 ms. (type = Young Gen)
+[28Sep2025 15:20:22.614] [spark-worker-pool-1-thread-2/INFO] [net.minecraft.server.MinecraftServer/]: [⚡] Tick #6494 included GC lasting 69 ms. (type = Young Gen)
+[28Sep2025 15:21:16.141] [spark-worker-pool-1-thread-4/INFO] [net.minecraft.server.MinecraftServer/]: [⚡] Tick #7565 included GC lasting 47 ms. (type = Young Gen)
+[28Sep2025 15:22:16.597] [spark-worker-pool-1-thread-3/INFO] [net.minecraft.server.MinecraftServer/]: [⚡] Tick #8774 included GC lasting 53 ms. (type = Young Gen)
+[28Sep2025 15:22:31.075] [Server thread/INFO] [JamLib/]: Updated config file at /workspaces/ZombielandXp/servidor_minecraft/config/sort_it_out/05f1853a-025b-3378-b7b2-0ca7ce3e3537.json5
+[28Sep2025 15:23:06.139] [spark-worker-pool-1-thread-1/INFO] [net.minecraft.server.MinecraftServer/]: [⚡] Tick #9765 included GC lasting 48 ms. (type = Young Gen)
+[28Sep2025 15:23:22.336] [spark-worker-pool-1-thread-2/INFO] [net.minecraft.server.MinecraftServer/]: [⚡] Tick #10088 lasted 151.71 ms. (203.42% increase from avg)
+[28Sep2025 15:23:44.835] [spark-worker-pool-1-thread-4/INFO] [net.minecraft.server.MinecraftServer/]: [⚡] Tick #10537 lasted 200.97 ms. (301.93% increase from avg)
+[28Sep2025 15:23:49.894] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zMckLezZz: Gave 64 [Bread] to zMckLezZz]
+[28Sep2025 15:23:59.148] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zMckLezZz went up in flames
+[28Sep2025 15:24:00.492] [spark-worker-pool-1-thread-3/INFO] [net.minecraft.server.MinecraftServer/]: [⚡] Tick #10851 included GC lasting 81 ms. (type = Young Gen)
+[28Sep2025 15:24:00.543] [spark-worker-pool-1-thread-1/INFO] [net.minecraft.server.MinecraftServer/]: [⚡] Tick #10852 lasted 151.3 ms. (202.61% increase from avg)
+[28Sep2025 15:24:03.827] [spark-worker-pool-1-thread-2/INFO] [net.minecraft.server.MinecraftServer/]: [⚡] Tick #10918 lasted 127.44 ms. (154.88% increase from avg)
+[28Sep2025 15:24:03.827] [spark-worker-pool-1-thread-2/INFO] [net.minecraft.server.MinecraftServer/]: [⚡] Tick #10918 included GC lasting 74 ms. (type = Young Gen)
+[28Sep2025 15:24:53.459] [spark-worker-pool-1-thread-3/INFO] [net.minecraft.server.MinecraftServer/]: [⚡] Tick #11911 included GC lasting 65 ms. (type = Young Gen)
+[28Sep2025 15:25:10.179] [spark-worker-pool-1-thread-1/INFO] [net.minecraft.server.MinecraftServer/]: [⚡] Tick #12241 lasted 344.3 ms. (588.59% increase from avg)
+[28Sep2025 15:25:28.669] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zMckLezZz moved too quickly! 4.263630578800303,1.2286092609382138,9.29702745447662
+[28Sep2025 15:25:46.192] [spark-worker-pool-1-thread-2/INFO] [net.minecraft.server.MinecraftServer/]: [⚡] Tick #12966 included GC lasting 51 ms. (type = Young Gen)
+[28Sep2025 15:26:10.190] [spark-worker-pool-1-thread-4/INFO] [net.minecraft.server.MinecraftServer/]: [⚡] Tick #13446 lasted 105.54 ms. (111.09% increase from avg)
+[28Sep2025 15:26:13.943] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
+[28Sep2025 15:26:13.945] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zMckLezZz has made the advancement [Meet the Team]
+[28Sep2025 15:26:17.753] [spark-worker-pool-1-thread-3/INFO] [net.minecraft.server.MinecraftServer/]: [⚡] Tick #13597 included GC lasting 61 ms. (type = Young Gen)
+[28Sep2025 15:26:25.690] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
+[28Sep2025 15:26:48.627] [spark-worker-pool-1-thread-1/INFO] [net.minecraft.server.MinecraftServer/]: [⚡] Tick #14215 included GC lasting 59 ms. (type = Young Gen)
+[28Sep2025 15:27:10.050] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zMckLezZz: Gave 64 [Arrow] to zMckLezZz]
+[28Sep2025 15:27:22.113] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zMckLezZz has made the advancement [Spore]
+[28Sep2025 15:27:24.501] [spark-worker-pool-1-thread-2/INFO] [net.minecraft.server.MinecraftServer/]: [⚡] Tick #14932 included GC lasting 61 ms. (type = Young Gen)
